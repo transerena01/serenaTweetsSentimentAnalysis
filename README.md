@@ -11,3 +11,4 @@ From this tutorial, I want to then develop my own mini assignment. I want to: Co
 
 In TweetsSentimentPredictions.ipynb, I've fixed errors of the original files and now will deploy them into my own work.
 
+Python Matplotlib Numpy Pandas Naccrintion
