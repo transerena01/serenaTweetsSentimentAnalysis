@@ -9,6 +9,7 @@ I learned from the tutorial
 
 From this tutorial, I want to then develop my own mini assignment. I want to: Comparing Sentiment Patterns Across K-pop Groups Using Deep Learning. 
 
-In TweetsSentimentPredictions.ipynb, I've fixed errors of the original files and now will deploy them into my own work.
+In TweetsSentimentPredictions.ipynb, I've fixed errors of the original files and now will deploy them into my own work :: ## Deployed SentimentAnalysiswithNeuralNetwork.ipynb
+
 
 Python Matplotlib Numpy Pandas Naccrintion
